@@ -2,14 +2,14 @@
 
 - 🌱 I’m currently learning software development for web
 
-|           | **Lunes**                       | **Martes**                      | **_Miercoles _**                | **_Jueves _**                   | **Viernes**                     |
-|-----------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| **13:00** | Administracion de Base de Datos | Administracion de Base de Datos | Administracion de Base de Datos | Administracion de Base de Datos | Administracion de Base de Datos |
-| **14:00** | Ingenieria de Software          | Ingenieria de Software          | Ingenieria de Software          | Ingenieria de Software          |      Ingenieria de Software     |
-| **15:00** | Lenguajes y Automatas I         | Lenguajes y Automatas I         | Lenguajes y Automatas I         | Lenguajes y Automatas I         | Lenguajes y Automatas I         |
-| **16:00** | Lenguajes de Interfaz           | Lenguajes de Interfaz           | Lenguajes de Interfaz           | Lenguajes de Interfaz           |                                 |
-| **17:00** | Taller de Sistemas Operativos   | Taller de Sistemas Operativos   | Taller de Sistemas Operativos   | Taller de Sistemas Operativos   |                                 |
-| **18:00** | Redes de Computadora            | Redes de Computadora            | Redes de Computadora            |
+| **Hour**  | **Subjects**                    |      **Days**       | 
+|-----------|---------------------------------|---------------------|
+| **13:00** | Administracion de Base de Datos | Monday - Friday     | 
+| **14:00** | Ingenieria de Software          | Monday - Friday     | 
+| **15:00** | Lenguajes y Automatas I         | Monday - Friday     |
+| **16:00** | Lenguajes de Interfaz           | Monday - Thursday   | 
+| **17:00** | Taller de Sistemas Operativos   | Monday - Thursday   | 
+| **18:00** | Redes de Computadora            | Monday - Friday     | 
 <!--
 **MiguelAdrianHV/MiguelAdrianHV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
