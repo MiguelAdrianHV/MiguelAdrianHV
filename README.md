@@ -2,14 +2,7 @@
 
 - 🌱 I’m currently learning software development for web
 
-| **Hour**  | **Subjects**                    |      **Days**       | 
-|-----------|---------------------------------|---------------------|
-| **13:00** | Administracion de Base de Datos | Monday - Friday     | 
-| **14:00** | Ingenieria de Software          | Monday - Friday     | 
-| **15:00** | Lenguajes y Automatas I         | Monday - Friday     |
-| **16:00** | Lenguajes de Interfaz           | Monday - Thursday   | 
-| **17:00** | Taller de Sistemas Operativos   | Monday - Thursday   | 
-| **18:00** | Redes de Computadora            | Monday - Friday     | 
+<a href="https://github.com/alexisss1928"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAdrianHV&langs_count=5&title_color=FF66C4&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="MiguelAdrianHV" style="padding:10px"/></a>
 <!--
 **MiguelAdrianHV/MiguelAdrianHV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
