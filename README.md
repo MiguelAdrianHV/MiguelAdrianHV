@@ -6,6 +6,7 @@
 <div></div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra
+https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAdrianHV&langs_count=5&title_color=FF66C4&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e
 <!--
 **MiguelAdrianHV/MiguelAdrianHV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
