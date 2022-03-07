@@ -5,6 +5,7 @@
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelAdrianHV&show_icons=true&theme=tokyonight)
 <div></div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra
 <!--
 **MiguelAdrianHV/MiguelAdrianHV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
