@@ -4,7 +4,7 @@
 
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelAdrianHV&show_icons=true&theme=tokyonight)
 <div></div>
-<a href="https://github.com/MiguelAdrianHV"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAdrianHV&langs_count=5&title_color=FFFFFF&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="MiguelAdrianHV" style="padding:10px"/></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAdrianHernandez&layout=compact)
 <!--
 **MiguelAdrianHV/MiguelAdrianHV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
