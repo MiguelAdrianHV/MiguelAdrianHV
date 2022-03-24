@@ -1,6 +1,6 @@
 ### Hi there, i'm Miguel Hernandez 👋
 
-- 🌱 I’m currently learning software development for web
+- 🌱 I’m currently learning software development
 
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelAdrianHV&show_icons=true&theme=tokyonight)
 <div></div>
