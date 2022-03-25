@@ -1,6 +1,7 @@
 ### Hi there, i'm Miguel Hernandez 👋
 
-- 🌱 I’m currently learning software development
+- 🌱 I’m currently learning software development for web
+- 🐙 I like octopuses
 
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelAdrianHV&show_icons=true&theme=tokyonight)
 <div></div>
