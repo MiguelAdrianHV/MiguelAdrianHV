@@ -7,8 +7,7 @@
 
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelAdrianHV&show_icons=true&theme=tokyonight)
 <div></div>
-![image](https://user-images.githubusercontent.com/81411706/194441722-01054d09-9177-43ca-a9ed-3cae8e184b70.png)
-
+![image](https://cdn.dribbble.com/users/1320653/screenshots/3492217/octo_800x600.gif)
 <!--
 **MiguelAdrianHV/MiguelAdrianHV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
