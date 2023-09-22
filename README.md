@@ -1,7 +1,7 @@
 ### Hi there, i'm Miguel Hernandez 👋
 
 - 🌱 I’m currently learning software development for web and iOS
-- 🐙 I like octopuses
+- 🐙 I like octopi
 
 <img src="https://cdn.dribbble.com/users/1320653/screenshots/3492217/octo_800x600.gif">
 
